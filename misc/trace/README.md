@@ -13,6 +13,8 @@ but it is broken at the moment:
 https://github.com/catapult-project/catapult/issues/2247
 
 The license for trace-viewer is as follows:
+
+```
 // Copyright (c) 2012 The Chromium Authors. All rights reserved.
 //
 // Redistribution and use in source and binary forms, with or without
@@ -40,3 +42,4 @@ The license for trace-viewer is as follows:
 // THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 // (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+```
